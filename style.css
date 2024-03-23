@@ -1,0 +1,26 @@
+a:hover {
+  background-color: rgb(138, 231, 231);
+}
+a   {
+    text-decoration: none;
+    color: rgb(102, 104, 209);
+}
+img {
+  border-width: 1px;
+  border-radius: 10%;
+}
+table tr{
+    text-align: center;
+}
+table tr:nth-child(even) {
+  background-color: yellow;
+
+}
+
+ul {
+  list-style-type: circle;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
